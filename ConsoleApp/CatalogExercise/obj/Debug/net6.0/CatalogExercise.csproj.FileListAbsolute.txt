@@ -1,0 +1,17 @@
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\bin\Debug\net6.0\CatalogExercise.exe
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\bin\Debug\net6.0\CatalogExercise.deps.json
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\bin\Debug\net6.0\CatalogExercise.runtimeconfig.json
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\bin\Debug\net6.0\CatalogExercise.dll
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\bin\Debug\net6.0\CatalogExercise.pdb
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\CatalogExercise.csproj.AssemblyReference.cache
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\CatalogExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\CatalogExercise.AssemblyInfoInputs.cache
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\CatalogExercise.AssemblyInfo.cs
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\CatalogExercise.csproj.CoreCompileInputs.cache
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\CatalogExercise.csproj.CopyComplete
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\CatalogExercise.dll
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\refint\CatalogExercise.dll
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\CatalogExercise.pdb
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\CatalogExercise.genruntimeconfig.cache
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\CatalogExercise\obj\Debug\net6.0\ref\CatalogExercise.dll

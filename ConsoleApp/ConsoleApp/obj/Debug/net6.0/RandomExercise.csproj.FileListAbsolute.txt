@@ -1,0 +1,15 @@
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\bin\Debug\net6.0\RandomExercise.exe
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\bin\Debug\net6.0\RandomExercise.deps.json
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\bin\Debug\net6.0\RandomExercise.runtimeconfig.json
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\bin\Debug\net6.0\RandomExercise.dll
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\bin\Debug\net6.0\RandomExercise.pdb
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\RandomExercise.csproj.AssemblyReference.cache
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\RandomExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\RandomExercise.AssemblyInfoInputs.cache
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\RandomExercise.AssemblyInfo.cs
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\RandomExercise.csproj.CoreCompileInputs.cache
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\RandomExercise.dll
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\refint\RandomExercise.dll
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\RandomExercise.pdb
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\RandomExercise.genruntimeconfig.cache
+D:\KhushbuPandya\InercyaExercise\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\RandomExercise.dll
